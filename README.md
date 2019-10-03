@@ -36,3 +36,4 @@ If you have participated in the Hacktoberfest, do write your name in the format 
 | Sl. No. | Name | Designation | College/Workplace | PR 1 | PR 2 | PR 3 | PR 4 | PR 5 |
 |--|--|--|--|--|--|--|--|--|
 | 1. | [Aditya Raman](https://github.com/ramanaditya) | Student | Sir MVIT | [Glug Blog](https://blog.glugmvit.com/) | [GLUG Website](https://www.glugmvit.com/) | [Hacktoberfest](https://github.com/glugmvit/Hacktoberfest) | [Hacktoberfest_19](https://github.com/infiniteoverflow/Hacktoberfest_19) | |
+| 1. | [Arsh Deep](https://github.com/ar1998) | Student | Sir MVIT | [Hacktoberfest_19](https://github.com/infiniteoverflow/Hacktoberfest_19) | [Hacktoberfest](https://github.com/glugmvit/Hacktoberfest) | |
